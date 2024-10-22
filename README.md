@@ -19,8 +19,8 @@
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- C# .NET
-- Console
+- C# .NET 8.0
+- Visual Studio 2022
 - Visual graphics for the console
 
 <h2 id="started">🚀 Getting started</h2>
